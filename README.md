@@ -8,7 +8,9 @@ I've put a [Pimoroni trackball](https://shop.pimoroni.com/products/trackball-bre
 [greyhatmiddleman](https://github.com/greyhatmiddleman/crkbd-pimoroni-trackball) and [foureight84](https://github.com/foureight84/sofle-keyboard-pimoroni).
 The hardware follows greyhatmiddleman's approach of using a [SparkFun Pro USB-C Pro Micro with Qwiic connector](https://www.sparkfun.com/products/15795)
 to provide the I2C connection for the Pimoroni and mounting the trackball module on the right-hand pro micro cover. Before assembly, I also drilled out all 
-the center holes in the switch mounting footprints to 5mm so that a [ChocV2](https://www.kailhswitch.com/mechanical-keyboard-switches/key-switches/kailh-low-profile-switch-choc-v2.html) switch will fit - I really want to mess with those at some point.
+the center holes in the switch mounting footprints on the keyboard PCB to 5mm so that a 
+[ChocV2](https://www.kailhswitch.com/mechanical-keyboard-switches/key-switches/kailh-low-profile-switch-choc-v2.html) switch will fit - I really want 
+to mess with those at some point, and this seemed like the easiest time to prepare for it.
 
 ![Mounted Sparkfun Pro Micro](./imgs/sparkfun_mounted.jpg)
 
