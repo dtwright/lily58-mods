@@ -5,7 +5,7 @@ Trackball and tilt/tent mods to the Lily58 split ortho keyboard.
 ![Finished Pimoroni trackball](./imgs/pimoroni_complete.jpg)
 
 I've put a [Pimoroni trackball](https://shop.pimoroni.com/products/trackball-breakout) on my Lily58, building on the work of 
-[greyhatmiddleman](https://github.com/greyhatmiddleman/crkbd-pimoroni-trackball) and [foureight84](https://github.com/foureight84/sofle-keyboard-pimoroni). You should go read those two projects' documentation before trying to follow my documentation; mine doesn't go into detail on how to flash the two halves separately or the general background currently, though I may fix that at some point.
+[greyhatmiddleman](https://github.com/greyhatmiddleman/crkbd-pimoroni-trackball) and [foureight84](https://github.com/foureight84/sofle-keyboard-pimoroni). You should go read those two projects' documentation before trying to use what I have here to build your own Lily58 with a trackball; my docs don't go into detail on the general background or how to flash the two halves separately currently, though I may fix that at some point.
 
 The hardware follows greyhatmiddleman's approach of using a [SparkFun Pro USB-C Pro Micro with Qwiic connector](https://www.sparkfun.com/products/15795)
 to provide the I2C connection for the Pimoroni and mounting the trackball module on the right-hand pro micro cover. Before assembly, I also drilled out all 
