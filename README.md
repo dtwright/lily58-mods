@@ -47,7 +47,7 @@ can be soldered at three points for more stability and strength. The pin is easy
 up from the bottom and then grab it with some tweezers:
 ![ChocV2 3rd pin removal](./imgs/chocv2_pin_detail.jpg)
 
-While I had the switches open, I also replaced the springs with 30g Spirit springs from [gboards](https://gboards.ca/). I'm a big fan of light
+While I had the switches open, I also replaced the springs with 30g Spirit springs from [gboards](gboards.ca). I'm a big fan of light
 springs for ergo keyboards and these feel great. I'm using the blue (clicky) ChocV2s and with the fairly hefty `/dev/tty` keycap set I have on here, 
 the 30g spring is as light as I can go and still have the switch reliably return past the click detent to the top of its travel 
 (25g springs were too light).
