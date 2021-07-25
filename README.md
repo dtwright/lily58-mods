@@ -31,7 +31,7 @@ defines in `rules.mk` and `config.h`; if I have some time in the near future I m
 ![Tilt/tent bolts](./imgs/tilt_tent.jpg)
 
 I wasn't thrilled with other tilt/tent things I tried for the Lily58 and I wanted an excuse to learn a little bit about [KiCAD](https://kicad.org), so I 
-added some round wings for bolts that coule serve as adjustable legs to the base FR4 plate design, and had it 5 copies of the board fabricated by 
+added some round wings for bolts that coule serve as adjustable legs to the base FR4 plate design, and had 5 copies of the board fabricated by 
 [JLCPCB](https://jlcpcb.com). I'm really happy with the result - it's easy to adjust and it looks much cleaner than any improvised tilt/tent stuff I've 
 messed with, and the new base plates were really cheap (seriously, check out JLCPCB's prices). Files are [here](https://github.com/dtwright/Lily58/tree/master/Pro/Case).
 
